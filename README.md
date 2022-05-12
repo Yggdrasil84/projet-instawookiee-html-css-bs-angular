@@ -1,2 +1,2 @@
-# projet-instawookiee-html-css-bs-angular
-Projet site InstaWookiee formation Angular
+# Projet InstaWookiee (HTML/CSS/BS/Angular)
+Projet site InstaWookiee (formation Angular Udemy)
